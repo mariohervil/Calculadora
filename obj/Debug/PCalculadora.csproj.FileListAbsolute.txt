@@ -1,0 +1,11 @@
+E:\2DAM\M7\PCalculadora\bin\Debug\PCalculadora.exe.config
+E:\2DAM\M7\PCalculadora\bin\Debug\PCalculadora.exe
+E:\2DAM\M7\PCalculadora\bin\Debug\PCalculadora.pdb
+E:\2DAM\M7\PCalculadora\obj\Debug\PCalculadora.csproj.AssemblyReference.cache
+E:\2DAM\M7\PCalculadora\obj\Debug\PCalculadora.Form1.resources
+E:\2DAM\M7\PCalculadora\obj\Debug\PCalculadora.Properties.Resources.resources
+E:\2DAM\M7\PCalculadora\obj\Debug\PCalculadora.csproj.GenerateResource.cache
+E:\2DAM\M7\PCalculadora\obj\Debug\PCalculadora.csproj.CoreCompileInputs.cache
+E:\2DAM\M7\PCalculadora\obj\Debug\PCalculadora.exe
+E:\2DAM\M7\PCalculadora\obj\Debug\PCalculadora.pdb
+E:\2DAM\M7\PCalculadora\obj\Debug\PCalculadora.Form2.resources
